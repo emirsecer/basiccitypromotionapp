@@ -13,6 +13,8 @@
 		B5EC2EC32A94FA3700CF8977 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B5EC2EC12A94FA3700CF8977 /* Main.storyboard */; };
 		B5EC2EC52A94FA3900CF8977 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B5EC2EC42A94FA3900CF8977 /* Assets.xcassets */; };
 		B5EC2EC82A94FA3900CF8977 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B5EC2EC62A94FA3900CF8977 /* LaunchScreen.storyboard */; };
+		B5EC2ED02A94FE4400CF8977 /* sehirler.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5EC2ECF2A94FE4400CF8977 /* sehirler.swift */; };
+		B5EC2ED22A9504B100CF8977 /* ViewControllerdetails.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5EC2ED12A9504B100CF8977 /* ViewControllerdetails.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		B5EC2EC42A94FA3900CF8977 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B5EC2EC72A94FA3900CF8977 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B5EC2EC92A94FA3900CF8977 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B5EC2ECF2A94FE4400CF8977 /* sehirler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = sehirler.swift; sourceTree = "<group>"; };
+		B5EC2ED12A9504B100CF8977 /* ViewControllerdetails.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerdetails.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +63,8 @@
 				B5EC2EBB2A94FA3700CF8977 /* AppDelegate.swift */,
 				B5EC2EBD2A94FA3700CF8977 /* SceneDelegate.swift */,
 				B5EC2EBF2A94FA3700CF8977 /* ViewController.swift */,
+				B5EC2ED12A9504B100CF8977 /* ViewControllerdetails.swift */,
+				B5EC2ECF2A94FE4400CF8977 /* sehirler.swift */,
 				B5EC2EC12A94FA3700CF8977 /* Main.storyboard */,
 				B5EC2EC42A94FA3900CF8977 /* Assets.xcassets */,
 				B5EC2EC62A94FA3900CF8977 /* LaunchScreen.storyboard */,
@@ -141,6 +147,8 @@
 				B5EC2EC02A94FA3700CF8977 /* ViewController.swift in Sources */,
 				B5EC2EBC2A94FA3700CF8977 /* AppDelegate.swift in Sources */,
 				B5EC2EBE2A94FA3700CF8977 /* SceneDelegate.swift in Sources */,
+				B5EC2ED22A9504B100CF8977 /* ViewControllerdetails.swift in Sources */,
+				B5EC2ED02A94FE4400CF8977 /* sehirler.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
